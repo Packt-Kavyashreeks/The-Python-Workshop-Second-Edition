@@ -46,7 +46,7 @@ With the following software and hardware list you can run all code files present
 | 1-13 | Jupyter notebook | Windows, macOS, or Linux |
 
 
-We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/KB00O).
+We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it](https://packt.link/KB00O)
 
 ### Related products
 * Python for Geeks [[Packt]](https://www.packtpub.com/product/python-for-geeks/9781801070119?utm_source=github&utm_medium=repository&utm_campaign=9781801070119) [[Amazon]](https://www.amazon.com/dp/1801070113)

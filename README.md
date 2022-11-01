@@ -72,6 +72,7 @@ is a chief data scientist and is currently the CEO of LEAD, an institution that 
 
 ## Other books by the authors
 [Hands-On Gradient Boosting with XGBoost and scikit-learn](https://www.packtpub.com/product/hands-on-gradient-boosting-with-xgboost-and-scikit-learn/9781839218354?utm_source=github&utm_medium=repository&utm_campaign=9781839218354)
+[The Python Workshop](https://www.packtpub.com/product/the-python-workshop/9781839218859?utm_source=github&utm_medium=repository&utm_campaign=9781839218859)
 
 
 
